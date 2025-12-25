@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Educive Foundation — AI Education for Underserved Students</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Educive Foundation</a>
+      <nav class="main-nav" aria-label="Main">
+        <a href="aim.html">Our Aim</a>
+        <a href="projects.html">Projects</a>
+        <a href="survey.html">Survey</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-inner">
+        <h1>AI education for underserved students</h1>
+        <p class="lead">Founded by Atharva Birthare and Arjun Singh Parihar — enabling students access to AI learning, mentorship, and research opportunities.</p>
+        <div class="hero-ctas">
+          <a class="btn btn-primary" href="projects.html">See our projects</a>
+          <a class="btn btn-ghost" href="survey.html">Take the survey</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="features container">
+      <article class="card">
+        <h3>Teach</h3>
+        <p>Workshops and training to introduce ML fundamentals, Python and ethical AI.</p>
+      </article>
+      <article class="card">
+        <h3>Mentor</h3>
+        <p>Pairing students with volunteers and researchers for guided projects.</p>
+      </article>
+      <article class="card">
+        <h3>Research Access</h3>
+        <p>Help motivated students get exposure to research problems and labs.</p>
+      </article>
+    </section>
+
+    <section class="cta container">
+      <h2>Join us in bridging opportunity</h2>
+      <p>Whether you volunteer, donate, or share opportunities — you make an impact.</p>
+      <a class="btn btn-primary" href="#contact">Get involved</a>
+    </section>
+  </main>
+
+  <footer id="contact" class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>Educive Foundation</strong><br/>
+        Founded by Atharva Birthare &amp; Arjun Singh Parihar
+      </div>
+      <div class="socials">
+        <a href="#" aria-label="Email">hello@educive.org</a>
+        <a href="#" aria-label="Twitter">Twitter</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html><!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Our Aim — Educive Foundation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Educive Foundation</a>
+      <nav class="main-nav" aria-label="Main">
+        <a href="/">Home</a>
+        <a href="projects.html">Projects</a>
+        <a href="survey.html">Survey</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container content">
+    <h1>Our Aim</h1>
+    <p class="lead">Educive Foundation aims to make AI education accessible to students from underprivileged backgrounds by:</p>
+
+    <ul class="goals">
+      <li><strong>Foundational Training:</strong> Workshops on Python, data literacy and ML basics.</li>
+      <li><strong>Mentorship:</strong> One-to-one mentorship and group projects with volunteers.</li>
+      <li><strong>Research Pathways:</strong> Bridge students to internships, research labs and open projects.</li>
+      <li><strong>Resources:</strong> Free learning materials, recorded sessions and curated reading lists.</li>
+    </ul>
+
+    <h2>Short-term targets (6–12 months)</h2>
+    <ol>
+      <li>Run 8 beginner workshops (online and in-person)</li>
+      <li>Mentor 30 students on capstone projects</li>
+      <li>Establish partnerships with 3 research labs for internship slots</li>
+    </ol>
+
+    <h2>Long-term vision</h2>
+    <p>To create a self-sustaining community where motivated students from any background can learn AI, contribute to research, and access careers in technology.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <small>© Educive Foundation — Founded by Atharva Birthare &amp; Arjun Singh Parihar</small>
+    </div>
+  </footer>
+</body>
+</html><!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Projects — Educive Foundation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Educive Foundation</a>
+      <nav class="main-nav" aria-label="Main">
+        <a href="/">Home</a>
+        <a href="aim.html">Our Aim</a>
+        <a href="survey.html">Survey</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container content">
+    <h1>Projects</h1>
+    <p class="lead">Active and upcoming projects empowering students:</p>
+
+    <section class="projects-grid">
+      <article class="project-card">
+        <h3>Intro to Python for AI</h3>
+        <p>Beginner series teaching Python, NumPy, and basic ML concepts with hands-on exercises.</p>
+        <p class="meta">Status: Ongoing · Volunteers welcome</p>
+      </article>
+
+      <article class="project-card">
+        <h3>Mentorship Match</h3>
+        <p>Pairing students with volunteer mentors to build small research projects.</p>
+        <p class="meta">Status: Pilot</p>
+      </article>
+
+      <article class="project-card">
+        <h3>Research Access Program</h3>
+        <p>Connect high-potential students to remote research internships and open datasets.</p>
+        <p class="meta">Status: Planning</p>
+      </article>
+    </section>
+
+    <h2>Start a project with us</h2>
+    <p>If you have a project idea, please reach out via email or open an issue on our GitHub to propose it.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <small>© Educive Foundation</small>
+    </div>
+  </footer>
+</body>
+</html><!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Survey — Educive Foundation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Educive Foundation</a>
+      <nav class="main-nav" aria-label="Main">
+        <a href="/">Home</a>
+        <a href="aim.html">Our Aim</a>
+        <a href="projects.html">Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container content">
+    <h1>Survey</h1>
+    <p class="lead">Help us understand needs and design better programs. Choose one of the options below:</p>
+
+    <h2>Option A — Embed Google Form (recommended)</h2>
+    <p>Create a Google Form (https://forms.google.com) with your questions, then in the form: Send &gt; &lt;&gt; (embed) &gt; copy iframe code and paste below (replace the src with your form's embed URL).</p>
+
+    <!-- Replace YOUR_GOOGLE_FORM_EMBED_URL below with the embed URL from Google Forms -->
+    <div class="form-embed">
+      <iframe src="https://docs.google.com/forms/d/e/YOUR_GOOGLE_FORM_EMBED_URL/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </div>
+
+    <h2>Option B — Formspree (no Google)</h2>
+    <p>Use Formspree to collect responses by POSTing to their endpoint. See <a href="https://formspree.io" target="_blank" rel="noopener">Formspree</a>.</p>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <small>© Educive Foundation</small>
+    </div>
+  </footer>
+</body>
+</html>
